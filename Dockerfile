@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Foo Bar <exampleuser@example.com>
+MAINTAINER yongiman <yongiman@gmail.com>
 
 RUN apt-get update
 RUN apt-get install -y nginx
